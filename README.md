@@ -2,10 +2,6 @@
 
 ## Walkthrough video
 
-# Rundown README Generator
-
-## Walkthrough video
-
   https://drive.google.com/file/d/1d_5mVgYblbU7vrp1Q2E0ykPpymcTWGaX/view
 
 ## License
