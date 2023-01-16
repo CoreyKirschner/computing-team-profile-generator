@@ -2,7 +2,7 @@
 
 ## Walkthrough video
 
-  https://drive.google.com/file/d/1d_5mVgYblbU7vrp1Q2E0ykPpymcTWGaX/view
+https://drive.google.com/file/d/19LdRrKvwkDbxhqDaL_fjsgsuyjC21xQo/
 
 ## License
 
